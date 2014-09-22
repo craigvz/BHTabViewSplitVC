@@ -60,7 +60,7 @@
         <scene sceneID="Nki-YV-4Qg">
             <objects>
                 <splitViewController storyboardIdentifier="first" id="H1p-Uh-vWS" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Split View Controller" id="gAp-po-CdF"/>
+                    <tabBarItem key="tabBarItem" title="Split View Controller" image="first" id="gAp-po-CdF"/>
                     <toolbarItems/>
                     <connections>
                         <segue destination="RMx-3f-FxP" kind="relationship" relationship="masterViewController" id="BlO-5A-QYV"/>
@@ -154,7 +154,7 @@
                             <constraint firstAttribute="centerY" secondItem="JdE-5Z-msd" secondAttribute="centerY" constant="0.5" id="jtz-eh-rum"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Second View Controller" id="JiQ-Xy-Dfw"/>
+                    <tabBarItem key="tabBarItem" title="Second View Controller" image="second" id="JiQ-Xy-Dfw"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Q3g-Bc-rHO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -180,6 +180,10 @@
             <point key="canvasLocation" x="-1691" y="766"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="first" width="30" height="30"/>
+        <image name="second" width="30" height="30"/>
+    </resources>
     <inferredMetricsTieBreakers>
         <segue reference="Tll-UG-LXB"/>
     </inferredMetricsTieBreakers>

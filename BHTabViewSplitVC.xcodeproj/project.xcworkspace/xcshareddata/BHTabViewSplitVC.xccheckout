@@ -12,22 +12,34 @@
 	<dict>
 		<key>537A14F5792B6C7F57838B15AA2272D6F0E4D11F</key>
 		<string>https://bitbucket.org/craigvz/response-deck</string>
+		<key>B8601418B082CDDE8CF550B16D3822D253F039A7</key>
+		<string>https://github.com/craigvz/BHTabViewSplitVC.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BHTabViewSplitVC/BHTabViewSplitVC.xcodeproj</string>
+	<string>BHTabViewSplitVC.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>537A14F5792B6C7F57838B15AA2272D6F0E4D11F</key>
-		<string>../../..</string>
+		<string>../../../iOS%20Projects</string>
+		<key>B8601418B082CDDE8CF550B16D3822D253F039A7</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/craigvz/response-deck</string>
+	<string>https://github.com/craigvz/BHTabViewSplitVC.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>537A14F5792B6C7F57838B15AA2272D6F0E4D11F</string>
+	<string>B8601418B082CDDE8CF550B16D3822D253F039A7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8601418B082CDDE8CF550B16D3822D253F039A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BHTabViewSplitVC</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
